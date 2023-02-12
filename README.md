@@ -20,4 +20,3 @@
 
 ### Download Release ☞ [Install Media OC-V3.dmg ](https://github.com/chris1111/Install-Media-OC/releases/tag/V3)
 
-#### Usefull link How to use ☞ [Set Up OpenCore](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
