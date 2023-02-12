@@ -5,7 +5,7 @@
 - [acidanthera OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) 
 - [Packager chris1111](https://github.com/chris1111) 
 
- Tester: [jmtt1001](https://www.hackintosh-montreal.com/t10355p50-install-media-bs-oc#130373), [arcade33](https://www.hackintosh-montreal.com/t10355-install-media-bs-oc#130307), [mus68](https://www.hackintosh-montreal.com/t10355-install-media-bs-oc#130301z)
+ Tester: [jmtt1001](https://www.hackintosh-montreal.com/t10355p50-install-media-bs-oc#130373), [arcade33](https://www.hackintosh-montreal.com/t10355-install-media-bs-oc#130307), [mus68](https://www.hackintosh-montreal.com/t10355p100-install-media-bs-oc#130499)
 
 ###  What you need
 - SIP and Gatekeeper must be deactivated
