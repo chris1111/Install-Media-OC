@@ -1,5 +1,5 @@
 # Install Media OC
- ### Update 11 Feb 2023 Install Media OC-V3 Update App and OpenCore
+ - Update 11 Feb 2023 Install Media OC-V3 Update App and OpenCore 0.8.8
 
 ### Credit: 
 - [acidanthera OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) 
