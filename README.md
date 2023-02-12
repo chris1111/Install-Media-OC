@@ -13,7 +13,7 @@
 ## Test by me under macOS Catalina 10.15 to macOS Ventura 13
 
 ### Follow every steps in the Video ⬇︎
-[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/218287389-96444e32-0bf1-4886-9632-ccd2e1f3614d.png )](https://studio.youtube.com/video/mjd36-uvd-A)
+[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/218287389-96444e32-0bf1-4886-9632-ccd2e1f3614d.png )](https://www.youtube.com/watch?v=mjd36-uvd-A)
 
 
 #### This program is not responsible for any damage or machine that does not boot anymore.
