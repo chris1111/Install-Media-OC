@@ -1,6 +1,7 @@
 Usage of Install Media OC.app to create a bootable USB install media for macOS Tahoe 26
 - Use a minimum 32 gig USB drive media
-
+- SIP security and Gatekeeper must be disabled.
+  
 <img src="Pics/Screenshot-0.png" alt="Github Project" style="width:60%;">
 <img src="Pics/Screenshot-1.png" alt="Github Project" style="width:80%;">
 <img src="Pics/Screenshot-2.png" alt="Github Project" style="width:80%;">
