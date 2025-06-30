@@ -21,8 +21,5 @@ git clone https://github.com/chris1111/Install_Media-OC.git
 Double click to `create_app.command`
 <p>Watch this video to get started with Install-Media-OC:</p>
 
-https://github.com/user-attachments/assets/82a31ed5-bb32-4bcd-bc85-e0a58387f45a
-
-
-
+<video src="https://github.com/user-attachments/assets/82a31ed5-bb32-4bcd-bc85-e0a58387f45a" width="352" height="720"></video>
 
