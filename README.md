@@ -18,4 +18,6 @@ git clone https://github.com/chris1111/Install_Media-OC.git
 
 Double click to `create_app.command`
 
-<img src="Pics/Screenshot command.png" alt="Github Project" style="width:50%;">
+https://github.com/user-attachments/assets/d31508af-ec92-4b90-a377-28ccdb1ca6e9
+
+
