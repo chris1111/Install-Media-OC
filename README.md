@@ -6,7 +6,7 @@
 
 Credit: [Apple](https://ss64.com/mac/osacompile.html), [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 
-![InstallAssistant copy 3](https://github.com/user-attachments/assets/4a42d52e-0917-46e4-8df8-3e6b8c100010)
+<img src="Pics/InstallAssistant.png" alt="Github Project" style="width:40%;">
 
 
 - [x] `Clone Install Media OC:`
