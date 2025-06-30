@@ -8,7 +8,7 @@ layout: default
 #### Adapt to your needs: You can change anything in the EFI before creating the App [OpenCore EFI](https://github.com/chris1111/Install-Media-OC/tree/main/OpenCorePackage/OC-EFI/EFI)
 - The EFI is already adapted to boot macOS Tahoe 26 testing on `HP Prodesk 600 G1` `Its a Standard EFI`
     
-### Usage Install Media OC.app ➤ [Usage Install Media OC](https://github.com/chris1111/Install_Media-OC/blob/main/Usage.md)
+### Usage Install Media OC.app ➤ [Usage Install Media OC](https://github.com/chris1111/Install_Media-OC/blob/master/Usage.md)
 
 Credit: [Apple](https://ss64.com/mac/osacompile.html), [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 
