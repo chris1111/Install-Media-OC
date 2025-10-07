@@ -66,6 +66,8 @@ defaults write "$dir/$APP_NAME"/Contents/Info LSUIElement -bool true
 defaults write "$dir/$APP_NAME"/Contents/Info OSAAppletShowStartupScreen -bool true
 # Copy applet.icns to the right place
 cp -rp ./InstallMedia/applet.icns "$APP_NAME"/Contents/Resources
+# Copy Assets.car to the right place
+cp -rp ./InstallMedia/Assets.car "$APP_NAME"/Contents/Resources
 # Copy description to the right place
 cp -rp ./InstallMedia/description.rtfd "$APP_NAME"/Contents/Resources
 # Copy Installer to the right place
