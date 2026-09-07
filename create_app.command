@@ -1,7 +1,7 @@
 #!/bin/bash
 # Install Media OC Packager
 # This will create a Apple Bundle App Create Install Media HP Laptop 
-# Install Media HP Laptop OC Copyright (c) 2020, 2025 chris1111 All rights reserved.
+# Install Media HP Laptop OC Copyright (c) 2020, 2026 chris1111 All rights reserved.
 # No right on OpenCore Bootloader
 #
 # Permission to use, copy, modify, and/or distribute this software for any
@@ -62,7 +62,8 @@ Create Install Media OC App"
 dir=$(cd $(dirname "$1"); pwd)
 /usr/bin/osacompile -o "$APP_NAME" "$SOURCE_SCRIPT"
 # Use Startup screen, LSUIElement
-defaults write "$dir/$APP_NAME"/Contents/Info LSUIElement -bool true
+defaults write "$dir/$APP_NAME"/Contents/Info NSHumanReadableCopyright "Copyright © 2026 chris1111, All Right Reserved."
+defaults write "$dir/$APP_NAME"/Contents/Info CFBundleShortVersionString "1.0"
 defaults write "$dir/$APP_NAME"/Contents/Info OSAAppletShowStartupScreen -bool true
 # Copy applet.icns to the right place
 cp -rp ./InstallMedia/applet.icns "$APP_NAME"/Contents/Resources
